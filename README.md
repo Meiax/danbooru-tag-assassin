@@ -479,6 +479,44 @@ Designed for users who need manual adjustments. Easily verify translations acros
 
 ---
 
+> ### 🤝 Special Thanks & Disclaimer / 特別感謝 & 免責聲明
+>  
+> Special thanks to the following open-source projects and models:  
+> * [corkborg / wd14-tagger-standalone](https://github.com/corkborg/wd14-tagger-standalone)  
+> * [SmilingWolf / wd-swinv2-tagger-v3](https://huggingface.co/SmilingWolf/wd-swinv2-tagger-v3)
+>
+> **Disclaimer**: This plugin serves as an integration and UI enhancement tool for the aforementioned technologies within Eagle. All copyrights and derived responsibilities of the core technology belong to the original authors.
+> 
+>
+> 本插件之 AI 核心技術源於以下優秀的開源專案與模型，特此致謝：  
+> * [corkborg / wd14-tagger-standalone](https://github.com/corkborg/wd14-tagger-standalone)  
+> * [SmilingWolf / wd-swinv2-tagger-v3](https://huggingface.co/SmilingWolf/wd-swinv2-tagger-v3) 
+>
+> **免責聲明**：本插件僅作為上述技術於 Eagle 環境下的整合與介面優化工具，核心技術之版權與衍生責任歸原作者所有。
+>
+> 
+> 本插件之 AI 核心技术源于以下优秀的开源项目与模型，特此致谢：  
+> * [corkborg / wd14-tagger-standalone](https://github.com/corkborg/wd14-tagger-standalone)  
+> * [SmilingWolf / wd-swinv2-tagger-v3](https://huggingface.co/SmilingWolf/wd-swinv2-tagger-v3)
+>
+> **免责声明**：本插件仅作为上述技术在 Eagle 环境下的集成与界面优化工具，核心技术之版权与衍生责任归原作者所有。
+>
+> 
+> 本プラグインの AI 核心技術は、以下の素晴らしいオープンソースプロジェクトおよびモデルに支えられています：  
+> * [corkborg / wd14-tagger-standalone](https://github.com/corkborg/wd14-tagger-standalone)  
+> * [SmilingWolf / wd-swinv2-tagger-v3](https://huggingface.co/SmilingWolf/wd-swinv2-tagger-v3)
+>
+> **免責事項**: 本プラグインは、上記の技術を Eagle 環境に統合し、ユーザーインターフェースを最適化するためのツールです。核心技術に関する著作権および派生する責任は、原作者に帰属します。
+>
+> 
+> 본 플러그인의 AI 핵심 기술은 다음의 우수한 오픈 소스 프로젝트 및 모델을 기반으로 합니다:  
+> * [corkborg / wd14-tagger-standalone](https://github.com/corkborg/wd14-tagger-standalone)  
+> * [SmilingWolf / wd-swinv2-tagger-v3](https://huggingface.co/SmilingWolf/wd-swinv2-tagger-v3)
+>
+> **면책 조항**: 본 플러그인은 상기 기술을 Eagle 환경에 통합하고 인터페이스를 최적화하기 위한 도구입니다. 핵심 기술에 대한 저작권 및 파생되는 책임은 원작자에게 있습니다.
+
+---
+
 If this tool has made your life easier or you enjoy my work, please consider supporting me. Your attention and tips provide the greatest motivation for my continued development of plugins and games!
 
 如果這款插件為你帶來了便利，或者你喜歡我的創作，歡迎透過以下方式支持我。你的關注與贊助，將成為我持續開發插件與遊戲的最大動力！
